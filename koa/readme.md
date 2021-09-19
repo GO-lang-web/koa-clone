@@ -1,0 +1,1 @@
+## package.json main的作用 [定义入口](http://nodejs.cn/learn/the-package-json-guide#main)
